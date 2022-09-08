@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppNote</string>
+    <string name="my_notes">My Notes</string>
+    <string name="search_notes">Search Notes</string>
+    <string name="setting_color">Setting Color</string>
+    <string name="add_url">Add URL</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="pick_color">Pick color</string>
+    <string name="enter_url">Enter URl</string>
+    <string name="add">ADD</string>
+    <string name="cancel">CANCEL</string>
+    <string name="textDelete">Are you sure want to delete this note?</string>
+</resources>
